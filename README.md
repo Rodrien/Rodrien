@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rodrien98?color=%231DA1F2&label=Rodrien98&logo=twitter&style=for-the-badge)](https://twitter.com/Rodrien98)
 
-###:computer: Developer :book: Estudiante de Ingenieria
+### :computer: Developer :book: Estudiante de Ingenieria
 
 ---
 ### :rocket: Tecnologias
