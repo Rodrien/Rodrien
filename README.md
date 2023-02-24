@@ -2,7 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rodrien98?color=%231DA1F2&label=Rodrien98&logo=twitter&style=for-the-badge)](https://twitter.com/Rodrien98)
 
-### :computer: Ssr Developer :book: Estudiante de Ingenieria en UDELAR
+### :computer: Ssr Developer en Urudata Software <img align="left" height="20" src="https://media.licdn.com/dms/image/C4E0BAQE0ykyew3FcAQ/company-logo_200_200/0/1519856398216?e=2147483647&v=beta&t=-bvs6xqKV8-4FkbcfyFJc2Q3xdDpcRdmaxJdafIIIJM">
+### :book: Estudiante de Ingenieria en UDELAR
 
 ---
 ### :rocket: Tecnologias
