@@ -2,7 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rodrien98?color=%231DA1F2&label=Rodrien98&logo=twitter&style=for-the-badge)](https://twitter.com/Rodrien98)
 
-### :computer: Ssr Developer en Urudata Software <img align="left" height="20" src="https://media.licdn.com/dms/image/C4E0BAQE0ykyew3FcAQ/company-logo_200_200/0/1519856398216?e=2147483647&v=beta&t=-bvs6xqKV8-4FkbcfyFJc2Q3xdDpcRdmaxJdafIIIJM">
+### :computer: Developer
+
 ### :book: Estudiante de Ingenieria en UDELAR
 
 ---
@@ -27,6 +28,11 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 <br/> 
+
+---
+### Experiencia 
+#### Urudata Software - Semi Senior Developer
+<img align="left" height="20" src="https://media.licdn.com/dms/image/C4E0BAQE0ykyew3FcAQ/company-logo_200_200/0/1519856398216?e=2147483647&v=beta&t=-bvs6xqKV8-4FkbcfyFJc2Q3xdDpcRdmaxJdafIIIJM">
 
 <!-- 
 ---
