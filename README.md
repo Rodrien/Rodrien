@@ -7,6 +7,14 @@
 ### :book: Estudiante de Ingenieria en UDELAR
 
 ---
+### Experiencia 
+#### Urudata Software - Semi Senior Developer
+#### 2021 - Actualidad
+<img align="left" height="20" src="https://media.licdn.com/dms/image/C4E0BAQE0ykyew3FcAQ/company-logo_200_200/0/1519856398216?e=2147483647&v=beta&t=-bvs6xqKV8-4FkbcfyFJc2Q3xdDpcRdmaxJdafIIIJM">
+<br/> 
+
+---
+
 ### :rocket: Tecnologias
 
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
@@ -27,12 +35,6 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<br/> 
-
----
-### Experiencia 
-#### Urudata Software - Semi Senior Developer
-<img align="left" height="20" src="https://media.licdn.com/dms/image/C4E0BAQE0ykyew3FcAQ/company-logo_200_200/0/1519856398216?e=2147483647&v=beta&t=-bvs6xqKV8-4FkbcfyFJc2Q3xdDpcRdmaxJdafIIIJM">
 
 <!-- 
 ---
