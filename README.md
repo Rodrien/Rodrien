@@ -8,8 +8,7 @@
 
 ---
 ### Experiencia 
-#### Urudata Software - Semi Senior Developer
-#### 2021 - Actualidad
+#### Urudata Software - Semi Senior Developer (2021 - Actualidad)
 <img align="left" height="20" src="https://media.licdn.com/dms/image/C4E0BAQE0ykyew3FcAQ/company-logo_200_200/0/1519856398216?e=2147483647&v=beta&t=-bvs6xqKV8-4FkbcfyFJc2Q3xdDpcRdmaxJdafIIIJM">
 <br/> 
 
